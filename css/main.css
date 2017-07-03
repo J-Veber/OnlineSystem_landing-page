@@ -1,0 +1,35 @@
+@import url(../fonts/roboto/roboto.css);
+@import url(https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css);
+@import url(../vendor/dist/assets/owl.carousel.min.css);
+
+body {
+	font-family: 'Roboto', Arial;
+	font-size: 16px;
+	padding: 0;
+	margin: 0;
+}
+
+.btn-primary {
+	background: #61ADBB;
+	border: 1px solid #61ADBB;
+}
+
+.top-section {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 100;
+	padding-top: 50px;
+}
+
+header {
+	background: #f3f3f3;
+	position: relative;
+}
+
+.owl-carousel .item {
+	height: 100vh;
+	padding-top: 300px;
+	text-align: center;
+}

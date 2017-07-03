@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-arrow-down</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-284.000000, -2207.000000)">
+            <g id="Group-3-Copy-7" transform="translate(176.000000, 2207.000000)">
+                <g id="icon-arrow-down" transform="translate(108.000000, 0.000000)">
+                    <rect id="Rectangle-5" fill="#E85C4D" x="0" y="0" width="70" height="70"></rect>
+                    <g id="download-arrow-(1)" transform="translate(25.000000, 17.000000)" fill="#FFFFFF">
+                        <path d="M20.81175,23.206 C21.24075,22.762 21.24075,22.063 20.81175,21.619 C20.36775,21.19 19.65275,21.19 19.22475,21.619 L11.17775,29.666 L11.17775,3.111 C11.17775,2.492 10.68575,2 10.06675,2 C9.44775,2 8.93975,2.492 8.93975,3.111 L8.93975,29.666 L0.90875,21.619 C0.46475,21.19 -0.23425,21.19 -0.67825,21.619 C-1.10725,22.063 -1.10725,22.762 -0.67825,23.206 L9.27375,33.158 C9.70275,33.587 10.41675,33.587 10.86075,33.158 L20.81175,23.206 L20.81175,23.206 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
